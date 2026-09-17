@@ -362,7 +362,7 @@ async def handle_key(message):
             " သင်၏ key ကို registered မလုပ်ရသေးပါ။"
         )
 
-ADMIN_ID = "8200954758"
+ADMIN_ID = "8363372270"
 
 @bot.message_handler(commands=['listkeys'])
 async def listkeys(message):
